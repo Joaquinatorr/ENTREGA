@@ -6,4 +6,4 @@
 ## Integrantes:
 
 -Pedro Simón: <>
-- Joaqu
+- Joaquin Spongia <>
