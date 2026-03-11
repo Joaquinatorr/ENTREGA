@@ -6,4 +6,7 @@
 ## Integrantes:
 
 -Pedro Simón: <>
-- Joaquin Spongia <>
+-Joaquin Spongia <>
+-Facundo Perea <>
+-Leslie García <>
+-Joaquin Martinez <>
