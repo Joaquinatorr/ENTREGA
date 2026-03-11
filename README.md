@@ -11,7 +11,7 @@
 
 -Facundo Perea <https://github.com/facundourielperea8/modulo_1>
 
--Leslie García <>
+-Leslie García <https://github.com/leslierogarcia/Modulo_1>
 
 -Joaquin Martinez <>
 
