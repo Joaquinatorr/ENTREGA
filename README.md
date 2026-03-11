@@ -7,7 +7,7 @@
 
 -Pedro Simón: <>
 
--Joaquin Spongia <https://github.com/Joaquinatorr>
+-Joaquin Spongia <https://github.com/Joaquinatorr/modulo_1>
 
 -Facundo Perea <>
 
