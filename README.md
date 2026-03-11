@@ -13,7 +13,7 @@
 
 -Leslie García <https://github.com/leslierogarcia/Modulo_1>
 
--Joaquin Martinez <>
+-Joaquin Martinez <https://github.com/JoacoMartiinez/Modulo_1.git>
 
 -Ricardo Palma <>
 
