@@ -6,12 +6,17 @@
 ## Integrantes:
 
 -Pedro Simón: <>
+
 -Joaquin Spongia <>
+
 -Facundo Perea <>
+
 -Leslie García <>
+
 -Joaquin Martinez <>
+
 -Ricardo Palma <>
--
+
 
 |Nombre|Apellido|Correo|Whatsapp|
 |:----:|:----:|:-----:|:--------:|
