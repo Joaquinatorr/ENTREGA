@@ -5,7 +5,7 @@
 
 ## Integrantes:
 
--Pedro Simón: <>
+-Pedro Simón: <https://github.com/pedritogordito/modulo_1>
 
 -Joaquin Spongia <https://github.com/Joaquinatorr/modulo_1>
 
