@@ -1,5 +1,6 @@
 # ENTREGA
 
+![Uploading Gemini_Generated_Image_wb6ytfwb6ytfwb6y.png…]()
 
 
 # Consejo de sabios
