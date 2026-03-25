@@ -1,5 +1,6 @@
 # ENTREGA
 
+![WhatsApp Image 2026-03-25 at 19 39 48](https://github.com/user-attachments/assets/9a091c0a-b70f-44c9-9040-68152c5327c5)
 
 # Consejo de sabios
 
