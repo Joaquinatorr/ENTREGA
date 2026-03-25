@@ -1,6 +1,7 @@
 # ENTREGA
 
-![Uploading Gemini_Generated_Image_wb6ytfwb6ytfwb6y.png…]()
+
+![Gemini_Generated_Image_wb6ytfwb6ytfwb6y-convertido-de-png](https://github.com/user-attachments/assets/1a9cbbc1-6888-4496-97a6-90c1020b78ea)
 
 
 # Consejo de sabios
