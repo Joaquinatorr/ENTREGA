@@ -1,7 +1,7 @@
 # ENTREGA
 
 
-![Gemini_Generated_Image_wb6ytfwb6ytfwb6y-convertido-de-png](https://github.com/user-attachments/assets/1a9cbbc1-6888-4496-97a6-90c1020b78ea)
+![Gemini_Generated_Image_wb6ytfwb6ytfwb6y-convertido-de-png](https://github.com/facundourielperea8/probando/blob/main/Imagen_ConsejodeSabios_TyHM.png?raw=true)
 
 
 # Consejo de sabios
