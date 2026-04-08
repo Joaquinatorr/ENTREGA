@@ -1,5 +1,5 @@
 # ENTREGA
-#Imagen del grupo#
+## Imagen del grupo creada con IA
 
 ![Gemini_Generated_Image_wb6ytfwb6ytfwb6y-convertido-de-png](https://github.com/facundourielperea8/probando/blob/main/Imagen_ConsejodeSabios_TyHM.png?raw=true)
 
@@ -19,7 +19,7 @@
 -Joaquin Martinez <https://github.com/JoacoMartiinez/Modulo_1.git>
 
 -Ricardo Palma <>
-#Tabla#
+## Tabla con los integrantes del grupo
 
 |Nombre|Apellido|Correo|Whatsapp|
 |:----:|:----:|:-----:|:--------:|
