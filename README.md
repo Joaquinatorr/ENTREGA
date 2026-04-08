@@ -30,7 +30,7 @@
 |Joaquin|Martinez|joacomm2005@gmail.com|2612460413|
 
 ## Documento de Google: Guía de shortcuts de Markdown
-...
+(https://docs.google.com/document/d/1tqp_L84BUCdgBXsBi_AJF96L3Gv48v57OcmeTqNI-So/edit?usp=sharing)
 ## Modelo de armado de una página web
 ...
 ## Colab
