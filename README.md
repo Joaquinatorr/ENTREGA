@@ -21,13 +21,13 @@
 -Ricardo Palma <>
 ## Tabla con los integrantes del grupo
 
-|Nombre|Apellido|Correo|Whatsapp|
-|:----:|:----:|:-----:|:--------:|
-|Joaquin|Spongia|joaco.spongia@gmail.com|2615436497|
-|Pedro|Simon|pedrosimon1801@gmail.com|2612059674|
-|Facundo|Perea|facundourielperea@gmail.com|2615784191|
-|Leslie|Garcia|leslierogarcia@gmail.com|2612194931|
-|Joaquin|Martinez|joacomm2005@gmail.com|2612460413|
+|Nombre|Apellido|Correo|Whatsapp|Enlaces|
+|:----:|:----:|:-----:|:--------:|:-------:|
+|Joaquin|Spongia|joaco.spongia@gmail.com|2615436497|<https://github.com/Joaquinatorr/modulo_1>|
+|Pedro|Simon|pedrosimon1801@gmail.com|2612059674|<https://github.com/pedritogordito/modulo_1>|
+|Facundo|Perea|facundourielperea@gmail.com|2615784191|<https://github.com/facundourielperea8/modulo_1>|
+|Leslie|Garcia|leslierogarcia@gmail.com|2612194931|<https://github.com/leslierogarcia/Modulo_1>|
+|Joaquin|Martinez|joacomm2005@gmail.com|2612460413|<https://github.com/JoacoMartiinez/Modulo_1.git>|
 
 ## Documento de Google: Guía de shortcuts de Markdown
 https://docs.google.com/document/d/1tqp_L84BUCdgBXsBi_AJF96L3Gv48v57OcmeTqNI-So/edit?usp=sharing
