@@ -29,3 +29,9 @@
 |Leslie|Garcia|leslierogarcia@gmail.com|2612194931|
 |Joaquin|Martinez|joacomm2005@gmail.com|2612460413|
 
+## Documento de Google: Guía de shortcuts de Markdown
+...
+## Modelo de armado de una página web
+...
+## Colab
+...
