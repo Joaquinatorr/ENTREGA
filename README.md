@@ -35,3 +35,7 @@ https://docs.google.com/document/d/1tqp_L84BUCdgBXsBi_AJF96L3Gv48v57OcmeTqNI-So/
 ...
 ## Colab
 (https://colab.research.google.com/drive/1cN8UNZW0rjel0_yHQsj4sVqk2CYFjDS7?hl=es-es#scrollTo=tVeALNMlRtiD)
+## Módulo 2
+-Pedro Simón: https://github.com/pedritogordito/modulo_2
+## Módulo 3
+-Pedro Simón: https://github.com/pedritogordito/m-dulo_3
