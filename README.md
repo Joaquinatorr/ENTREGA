@@ -39,3 +39,5 @@ https://docs.google.com/document/d/1tqp_L84BUCdgBXsBi_AJF96L3Gv48v57OcmeTqNI-So/
 -Pedro Simón: https://github.com/pedritogordito/modulo_2
 ## Módulo 3
 -Pedro Simón: https://github.com/pedritogordito/m-dulo_3
+## Módulo 4
+-Pedro Simón: https://github.com/pedritogordito/modulo_4
